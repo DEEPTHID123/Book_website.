@@ -26,7 +26,7 @@ CSS: For styling the website and ensuring responsiveness.
 JavaScript: For dynamic functionality, such as managing the cart and interacting with users.
 
 project structure
-bookstore-private/
+Book_website.
 │
 ├── index.html        # Main HTML file
 ├── css/
